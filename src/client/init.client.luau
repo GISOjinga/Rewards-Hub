@@ -12,7 +12,7 @@ local bird = {
         print("Flap flap")
     end,
 }
-
+print(workspace.Part3)
 type Bird = typeof(bird)
 type BirdKeys = keyof<Bird>
 -- type function: collects only the keys whose value type is number
