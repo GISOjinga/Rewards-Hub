@@ -1,0 +1,17 @@
+{
+	"files.autoSave": "onFocusChange",
+	"luau-lsp.fflags.enableNewSolver": true,
+	"luau-lsp.plugin.enabled": true,
+	"luau-lsp.completion.autocompleteEnd": true,
+	"luau-lsp.completion.enableFragmentAutocomplete": true,
+	"luau-lsp.completion.imports.enabled": true,
+	"luau-lsp.completion.imports.separateGroupsWithLine": true,
+	"luau-lsp.completion.imports.stringRequires.enabled": false,
+	"luau-lsp.completion.showPropertiesOnMethodCall": true,
+	"luau-lsp.diagnostics.strictDatamodelTypes": true,
+	"luau-lsp.inlayHints.functionReturnTypes": true,
+	"luau-lsp.inlayHints.hideHintsForMatchingParameterNames": false,
+	"luau-lsp.inlayHints.parameterNames": "all",
+	"luau-lsp.inlayHints.variableTypes": true,
+	"luau-lsp.plugin.maximumRequestBodySize": "30mb",
+}
