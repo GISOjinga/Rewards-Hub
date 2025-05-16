@@ -14,4 +14,7 @@
 	"luau-lsp.inlayHints.parameterNames": "all",
 	"luau-lsp.inlayHints.variableTypes": true,
 	"luau-lsp.plugin.maximumRequestBodySize": "30mb",
+	"luau-lsp.fflags.override": {
+		"DebugLuauForceStrictMode": "true",
+	}
 }
